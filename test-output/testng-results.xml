@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Default testStarts]]>
+    </line>
+    <line>
+      <![CDATA[createNewUsermethod started]]>
+    </line>
+    <line>
+      <![CDATA[Login Pageis Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Home Pageis Displayed]]>
+    </line>
+    <line>
+      <![CDATA[createNewUsermethod Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68652" started-at="2021-02-07T18:53:06Z" finished-at="2021-02-07T18:54:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68652" started-at="2021-02-07T18:53:06Z" finished-at="2021-02-07T18:54:15Z">
+      <class name="com.actitime.users.CreateNewUserTest">
+        <test-method status="PASS" signature="createNewUser()[pri:0, instance:com.actitime.users.CreateNewUserTest@46d56d67]" name="createNewUser" duration-ms="68547" started-at="2021-02-07T18:53:06Z" finished-at="2021-02-07T18:54:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[createNewUsermethod started]]>
+            </line>
+            <line>
+              <![CDATA[Login Pageis Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Home Pageis Displayed]]>
+            </line>
+            <line>
+              <![CDATA[createNewUsermethod Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+      </class> <!-- com.actitime.users.CreateNewUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

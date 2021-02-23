@@ -1,0 +1,7 @@
+<suite name="Suite">
+  <test thread-count="5" name="TestRunner1">
+    <classes>
+      <class name="com.actitime.TimeTrack.ValidLoginTest"/>
+    </classes>
+  </test> 
+</suite> 
